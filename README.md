@@ -9,10 +9,6 @@ I'm open to front-end (remote) opportunities. If you like what you see and have 
 - React
 - CSS
 
-## Screen shot
-
-![image](https://user-images.githubusercontent.com/84907743/172868240-6fc6effe-1b01-4315-b267-99de1fedf364.png)
-
 ## Live Demo
 
 - [Netlify]()
