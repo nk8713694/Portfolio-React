@@ -12,6 +12,7 @@ I'm open to front-end (remote) opportunities. If you like what you see and have 
 ## Live Demo
 
 - [Netlify]()
+- https://regal-kringle-8b5a2f.netlify.app/
 
 ## Getting Started :
 
